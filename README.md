@@ -1,1 +1,1 @@
-https://www.last.fm/user/cross40"><img src="https://lastfm-recently-played.vercel.app/api?user=cross40&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=COLOR HEX" alt=
+href="https://www.last.fm/user/cross40"><img src="https://lastfm-recently-played.vercel.app/api?user=cross40&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=COLOR HEX" alt="
