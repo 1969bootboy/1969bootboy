@@ -1,1 +1,5 @@
-href="https://www.last.fm/user/cross40"><img src="https://lastfm-recently-played.vercel.app/api?user=cross40&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=COLOR HEX" alt="
+![](https://komarev.com/ghpvc/?username=1969bootboy&color=blue)
+
+<img src="https://lastly.nisarga.me/api/recent?username=cross40&period=7day" alt="Overall Statistics" align="center">
+
+tcc/zero day fans dni
