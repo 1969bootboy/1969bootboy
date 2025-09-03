@@ -13,7 +13,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&duration=1000&pause=2000&color=27424D&center=true&vCenter=true&width=435&lines=%E2%80%9CYou+and+I%2C;We're+just+a+couple+of+problem+solvers.%E2%80%9D" ></a>
 
-   <p align="center"><kbd><br>$\color{#e2bdbd}{\textsf{Skinhead drummer from the USA}}$<br>$\color{#e29c9c}{\textsf{I like guns and video games (And Craig Boone)}}$<br>$\color{#c76767}{\textsf{Nazis and TCC fuck off}}$<br>&nbsp;  </kbd></p>
+   <p align="center"><kbd><br>$\color{#e2bdbd}{\textsf{Skinhead drummer from the USA.}}$<br>$\color{#e29c9c}{\textsf{I like guns and video games. (And Craig Boone)}}$<br>$\color{#c76767}{\textsf{Nazis and TCC fuck off. Under 16s DNI}}$<br>&nbsp;  </kbd></p>
 
    <hr>
 
