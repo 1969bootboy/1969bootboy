@@ -21,7 +21,7 @@
 <img src="https://files.catbox.moe/kpsjs9.png" alt="bullet" title="Just the tip, I promise" width="120"><a href="https://www.last.fm/user/cross40">![](https://lastfm-recently-played.vercel.app/api?user=cross40&width=300&count=1&bg_color=27424D&header_style=none)</a><img src="https://files.catbox.moe/jwh1rg.png" alt="bullet" title="Just the tip, I promise" width="120">
 
 
-<a href="https://1969bootboy.straw.page/"><img src="https://64.media.tumblr.com/77c6b6c1ee90790d80f02d3f101c9205/c06f2db09216d675-f0/s250x400/7cce88d5267b53adecd22d57780514e87eaed871.pnj" width="100" alt="strawpage" title="Strawpage"></a>
+<a href="https://killswitchengage.straw.page/"><img src="https://64.media.tumblr.com/77c6b6c1ee90790d80f02d3f101c9205/c06f2db09216d675-f0/s250x400/7cce88d5267b53adecd22d57780514e87eaed871.pnj" width="100" alt="strawpage" title="Strawpage"></a>
 <a href="https://1969bootboy.atabook.org/"><img src="https://64.media.tumblr.com/a1bbfa18d2bed68c1961f193d6e141e3/c06f2db09216d675-e2/s250x400/5bab3dd5f6770fbffd91a6ceb851db6aa299b643.pnj" width="100" alt="atabook" title="Atabook"></a>
 
    <details>
