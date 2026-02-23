@@ -27,6 +27,6 @@
    <details>
               <summary>👅</summary>
 
-<img width="289" height="323" alt="omgg boone gif" src="https://64.media.tumblr.com/328421664161d969ce721640899a2efe/d187009760010329-61/s400x600/02ed928a82a77f6938b0e3866d798a7b5e12c6d3.gifv" />
+<img width="289" height="323" alt="omgg boone gif" src="https://media1.tenor.com/m/BWvIhZf7RWsAAAAC/fallout-new-vegas-fnv.gif" />
 
 </details>
