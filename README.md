@@ -11,7 +11,7 @@
    <p align="center"><img src="https://komarev.com/ghpvc/?username=1969bootboy&color=c76767&label=LEGIONARIES+DISPATCHED:" alt="view count" title="Need a bigger caliber."></p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&duration=1000&pause=2000&color=27424D&center=true&vCenter=true&width=435&lines=%E2%80%9CYou+and+I%2C;We're+just+a+couple+of+problem+solvers.%E2%80%9D" ></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&duration=1000&pause=2000&color=27424D&center=true&vCenter=true&width=435&lines=%E2%80%9CYou+and+I%2C;We're+just+a+couple+of+problem+solvers.%E2%80%9D" title="You and I, we're just a couple of problem solvers." ></a>
 
    <p align="center"><kbd><br>$\color{#e2bdbd}{\textsf{Skinhead drummer from the USA.}}$<br>$\color{#e29c9c}{\textsf{I like guns and video games. (And Craig Boone)}}$<br>$\color{#c76767}{\textsf{Nazis and TCC fuck off. Under 16s DNI}}$<br>&nbsp;  </kbd></p>
 
