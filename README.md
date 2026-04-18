@@ -1,7 +1,7 @@
 lalalala
 github is heavy wip
 tcc/zeroday fans dni under 17 iwc
-i like hardcore and metalcore and death metal ok?
+i like hardcore and metalcore and death metal and punk rock ok?
 
 <div align="center">
 
