@@ -18,7 +18,7 @@
 
   <br> <br> <br> 
 
-<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer, and an artist, video and photo editor and many more things, too many to name...}}$<br>$\color{#d10120}{\textsf{The stupid idiot to the right of this text is my mascot, Casey Engage. He'll have a toyhouse page eventually when I finish this repository}}$<br>$\color{#d10120}{\textsf{I've gotten called racist before for just existing on this game so I'll clarify, no I'm not a racist, no I'm not a nazi - I'm a punk. Don't assume things about me when you don't know me.}}$<br>$\color{#d10120}{\textsf{I like music. I like music a lot. Music is my life. I like metalcore, beatdown hardcore, punk rock, and death metal, and a few other genres too. By the way, this repository is really unfinished! If you couldn't tell.}}$<br><br></kbd></p>
+<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer.}}$<br>$\color{#d10120}{\textsf{The stupid idiot to the right of this text is my mascot, Casey Engage.}}$<br>$\color{#d10120}{\textsf{I've gotten called racist before for just existing on this game so I'll clarify, I'm not a nazi - I'm a punk. }}$<br>$\color{#d10120}{\textsf{I like music. I like music a lot. Music is my life. If you don't like music, I probably won't be your friend.}}$<br><br></kbd></p>
 
   <img src="https://64.media.tumblr.com/df7e7e20e3badb742ef83c1e56817ffc/af624465ac3bef02-c2/s250x400/610c57343315ae5e97196c878c9b4da30afc27f1.gifv" title="stamp 1" width="150">
      <br>
