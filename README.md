@@ -18,7 +18,7 @@
 
   <br> <br> <br> 
 
-<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer.}}$<br>$\color{#d10120}{\textsf{The stupid idiot to the right of this text is my mascot, Casey Engage.}}$<br>$\color{#d10120}{\textsf{I've gotten called racist before for just existing on this game so I'll clarify, I'm not a nazi - I'm a punk. }}$<br>$\color{#d10120}{\textsf{I like music. I like music a lot. Music is my life. If you don't like music, I probably won't be your friend.}}$<br><br></kbd></p>
+<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer.}}$<br>$\color{#d10120}{\textsf{The stupid idiot to the right of this text is my mascot, Casey Engage.}}$<br>$\color{#d10120}{\textsf{People keep accusing me of being racist. I'm not. Skinhead does not equal racist. }}$<br>$\color{#d10120}{\textsf{Music is my life. If you don't like a lot of music, I probably won't be your friend.}}$<br>$\color{#d10120}{\textsf{The stupid idiot to the right of this text is my mascot, Casey Engage.}}$<br>$\color{#d10120}{\textsf{Under 17 IWC, Nazis and TCC DNI and fuck off. }}$<br><br></kbd></p>
 
   <img src="https://64.media.tumblr.com/df7e7e20e3badb742ef83c1e56817ffc/af624465ac3bef02-c2/s250x400/610c57343315ae5e97196c878c9b4da30afc27f1.gifv" title="stamp 1" width="150">
      <br>
