@@ -14,17 +14,17 @@ wip
 
   <div align="center">
 
-  <img src="https://64.media.tumblr.com/50c9d34f119e3e52ea2cc728e31ad189/897f9a398a4698bc-95/s1280x1920/f0fbeeae9b547f34bf539513ef7d9443e0aff723.pnj" align="right" width="450" title="im so green">
+  <img src="https://64.media.tumblr.com/50c9d34f119e3e52ea2cc728e31ad189/897f9a398a4698bc-95/s1280x1920/f0fbeeae9b547f34bf539513ef7d9443e0aff723.pnj" align="right" width="450" title="Casey Engage">
 
   <br> <br> <br> 
 
 <kbd><br>$\color{#d10120}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFT}}$<br>$\color{#d10120}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaidd}}$<br>$\color{#d10120}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFTGYI}}$<br>$\color{#d10120}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFTGYIVY}}$<br><br></kbd></p>
 
-  <img src="https://64.media.tumblr.com/ed9d885aa570d459bba0373440365cc2/1ab504b66bf82926-4a/s100x200/fce8162e385e330d51d8a34c6f5046b66229d8be.pnj" title="stamp 1" width="150">
+  <img src="https://64.media.tumblr.com/df7e7e20e3badb742ef83c1e56817ffc/af624465ac3bef02-c2/s250x400/610c57343315ae5e97196c878c9b4da30afc27f1.gifv" title="stamp 1" width="150">
      <br>
-        <img src="https://64.media.tumblr.com/ed9d885aa570d459bba0373440365cc2/1ab504b66bf82926-4a/s100x200/fce8162e385e330d51d8a34c6f5046b66229d8be.pnj" title="stamp 2" width="150">          
+        <img src="https://64.media.tumblr.com/0c8d4b2079f5da56e7ac1c540acbf816/4ce15923e64a236d-23/s100x200/bbfec3020c779eee2fe938e433461d06898e8f94.gifv" title="stamp 2" width="150">          
         <br>
-          <img src="https://64.media.tumblr.com/ed9d885aa570d459bba0373440365cc2/1ab504b66bf82926-4a/s100x200/fce8162e385e330d51d8a34c6f5046b66229d8be.pnj" title="stamp 3" width="150">
+          <img src="https://64.media.tumblr.com/68ca1ddb36421a77bde28b50ad0d6454/e07cd6e790b25d04-a4/s100x200/5cba9b4cae6fa2f8b7ceddf80486293b9673a107.pnj" title="stamp 3" width="150">
           
   <br> <br> <br> <br> 
 
@@ -49,11 +49,11 @@ wip
 
 <kbd><br>$\color{#02a26d}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFT}}$<br>$\color{#02a26d}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaidd}}$<br>$\color{#02a26d}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFTGYI}}$<br>$\color{#02a26d}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFTGYIVY}}$<br><br></kbd></p>
 
-  <img src="https://64.media.tumblr.com/5c9a8495a6b3b8d046ee41f498e31d53/e5cf4cd999f5e020-33/s100x200/e5f73069f4177ac00d4244b08004575290df919b.gifv" title="stamp 1" width="150">
+  <img src="https://64.media.tumblr.com/04806fa80be098e7d3a70c8b372e6ba4/4ce15923e64a236d-6f/s100x200/5633262aa2168954cd84ac1f505d671c58c3237b.gifv" title="stamp 1" width="150">
      <br>
-        <img src="https://64.media.tumblr.com/5c9a8495a6b3b8d046ee41f498e31d53/e5cf4cd999f5e020-33/s100x200/e5f73069f4177ac00d4244b08004575290df919b.gifv" title="stamp 2"width="150">
+        <img src="https://64.media.tumblr.com/36040069b1f01ec310750e96766fa7b1/945d6d4f7a59f056-3c/s100x200/4189f896716326cc955b39d3fe37f6406cd7c5ea.pnj" title="stamp 2"width="150">
           <br>
-            <img src="https://64.media.tumblr.com/5c9a8495a6b3b8d046ee41f498e31d53/e5cf4cd999f5e020-33/s100x200/e5f73069f4177ac00d4244b08004575290df919b.gifv" title="stamp 3" width="150">
+            <img src="https://64.media.tumblr.com/f24aca77383f2e316ae04f27c4e96f3c/d0a007b71e503bf1-73/s100x200/fad225f0f7dea01a8975aac56f51775647c947fc.pnj" title="stamp 3" width="150">
 
   <br> <br> <br> <br> 
 
