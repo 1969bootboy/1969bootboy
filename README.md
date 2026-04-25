@@ -18,7 +18,7 @@
 
   <br> <br> <br> 
 
-<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer.}}$<br>$\color{#d10120}{\textsf{The idiot all over my repo is my mascot, Casey Engage.}}$<br>$\color{#d10120}{\textsf{Skinhead does not equal racist. Do your own research.}}$<br>$\color{#d10120}{\textsf{Music is my life. If you don't like a lot of music, I probably won't be your friend.}}$<br>$\color{#d10120}{\textsf{I like metalcore, hardcore and death metal.}}$<br>$\color{#d10120}{\textsf{Under 17 IWC, Nazis and TCC DNI and fuck off. }}$<br><br></kbd></p>
+<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer.}}$<br>$\color{#d10120}{\textsf{The idiot all over my repo is my mascot, Casey Engage.}}$<br>$\color{#d10120}{\textsf{Skinhead does not equal racist. Do your own research.}}$<br>$\color{#d10120}{\textsf{Music is my life. If you don't like music, I probably won't be your friend.}}$<br>$\color{#d10120}{\textsf{I like metalcore, hardcore and death metal.}}$<br>$\color{#d10120}{\textsf{Under 17 IWC, Nazis and TCC DNI and fuck off. }}$<br><br></kbd></p>
 
   <img src="https://64.media.tumblr.com/df7e7e20e3badb742ef83c1e56817ffc/af624465ac3bef02-c2/s250x400/610c57343315ae5e97196c878c9b4da30afc27f1.gifv" title="stamp 1" width="150">
      <br>
@@ -28,8 +28,7 @@
           
   <br> <br> <br> <br> 
 
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&pause=600&color=02A26D&width=435&lines=Behold+our+beloved+revels+in+tragedy%2C+in+tragedy;Self-denying+avarice+for+bloodshed%2C+behold%2C+hypocrite" title="Behold our beloved revels in tragedy, in tragedy / Self-denying avarice for bloodshed, behold, hypocrite" align="right">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&pause=600&color=D10120&center=true&width=435&lines=And+now+I+see+it's+you+that's+tearing+me%2C+ensnaring+me;This+is+me+dying+in+your+arms+-+I+cut+you+out%2C+now+set+me+free" title="Behold our beloved revels in tragedy, in tragedy / Self-denying avarice for bloodshed, behold, hypocrite" align="right">
 
 </div>
 
@@ -58,7 +57,7 @@
   <br> <br> <br> <br> 
 
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&pause=600&color=D10120&width=435&lines=It+seems+to+suit+you+better+bleeding+out+the+eyes;Hopes+left+in+chain+suspension%2C+holding+onto+lies+to+make+the+truth" title="It seems to suit you better bleeding out the eyes / Hopes left in chain suspension, holding onto lies to make the truth" align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&pause=600&color=02A26D&center=true&width=435&lines=It+seems+to+suit+you+better+bleeding+out+the+eyes;Hopes+left+in+chain+suspension%2C+holding+onto+lies+to+make+the+truth" title="It seems to suit you better bleeding out the eyes / Hopes left in chain suspension, holding onto lies to make the truth" align="left">
 
 </div>
 
