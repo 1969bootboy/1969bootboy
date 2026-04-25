@@ -1,13 +1,13 @@
-wip
   <div align="center">
 
-  <img src="https://64.media.tumblr.com/cbbb3983d51e3cffad260539ea0c8f58/4ab4284e38f2c43a-01/s1280x1920/08f91030d5aa3d43dbc60aac238aa3960fe882eb.pnj" alt="username" width="450" title="1969bootboy">
+  <img src="https://64.media.tumblr.com/904e502c324a0f1b9da7b50c4720c8dc/d995b1346eacc6e6-9b/s1280x1920/e9dc164e3b4f22397a36ea6e122f0bc6b31aacdf.pnj" alt="im so sideways" title="Casey Engage" width="600">
+
+  <img src="https://64.media.tumblr.com/22c95637c28873f8044092df857e7cf6/e30edf7189118bfb-c3/s540x810/890a599871c1a1a3b19b97cedd44d0874b6474a7.pnj" alt="username" width="450" title="1969bootboy">
 
    <p align="center"><img src="https://komarev.com/ghpvc/?username=1969bootboy&color=0a8a5f&label=Crowds+killed:" alt="view count" title="Visitor Count"></p>
 
 <a href="https://www.last.fm/user/cross40">![](https://lastfm-recently-played.vercel.app/api?user=cross40&width=300&count=1&bg_color=015447&header_style=none)</a>
 
-<img src="https://64.media.tumblr.com/904e502c324a0f1b9da7b50c4720c8dc/d995b1346eacc6e6-9b/s1280x1920/e9dc164e3b4f22397a36ea6e122f0bc6b31aacdf.pnj" alt="im so sideways" title="Casey Engage" width="600">
 
 </div>
 
@@ -18,7 +18,7 @@ wip
 
   <br> <br> <br> 
 
-<kbd><br>$\color{#d10120}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFT}}$<br>$\color{#d10120}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaidd}}$<br>$\color{#d10120}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFTGYI}}$<br>$\color{#d10120}{\textsf{TRCGYOTFIDRFTGYIVYOCYTVaiwdidiaiddTRCGYOTFIDRFTGYIVY}}$<br><br></kbd></p>
+<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer, and an artist, video and photo editor and many more things, too many to name...}}$<br>$\color{#d10120}{\textsf{The stupid idiot to the right of this text is my mascot, Casey Engage. He'll have a toyhouse page eventually when I finish this repository}}$<br>$\color{#d10120}{\textsf{I've gotten called racist before for just existing on this game so I'll clarify, no I'm not a racist, no I'm not a nazi - I'm a punk. Don't assume things about me when you don't know me.}}$<br>$\color{#d10120}{\textsf{I like music. I like music a lot. Music is my life. I like metalcore, beatdown hardcore, punk rock, and death metal, and a few other genres too. By the way, this repository is really unfinished! If you couldn't tell.}}$<br><br></kbd></p>
 
   <img src="https://64.media.tumblr.com/df7e7e20e3badb742ef83c1e56817ffc/af624465ac3bef02-c2/s250x400/610c57343315ae5e97196c878c9b4da30afc27f1.gifv" title="stamp 1" width="150">
      <br>
