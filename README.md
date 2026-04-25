@@ -14,11 +14,11 @@
 
   <div align="center">
 
-  <img src="https://64.media.tumblr.com/50c9d34f119e3e52ea2cc728e31ad189/897f9a398a4698bc-95/s1280x1920/f0fbeeae9b547f34bf539513ef7d9443e0aff723.pnj" align="right" width="450" title="Casey Engage">
+  <img src="https://64.media.tumblr.com/716d8d878eafb2b070dcc5af97f8fd36/f182496fe6be49a0-c7/s540x810/429414291020a2ab5a4cd76566add0f0ad3e3b7c.pnj" align="right" width="450" title="Casey Engage">
 
   <br> <br> <br> 
 
-<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer.}}$<br>$\color{#d10120}{\textsf{The idiot all over my repo is my mascot, Casey Engage.}}$<br>$\color{#d10120}{\textsf{Skinhead does not equal racist. Do your own research.}}$<br>$\color{#d10120}{\textsf{Music is my life. If you don't like music, I probably won't be your friend.}}$<br>$\color{#d10120}{\textsf{I like metalcore, hardcore and death metal.}}$<br>$\color{#d10120}{\textsf{Under 17 IWC, Nazis and TCC DNI and fuck off. }}$<br><br></kbd></p>
+<kbd><br>$\color{#d10120}{\textsf{Hi, I'm Tom or Tommy. I'm a skinhead drummer.}}$<br>$\color{#d10120}{\textsf{The idiot all over my repo is my mascot, Casey Engage.}}$<br>$\color{#d10120}{\textsf{Skinhead does not equal racist. Do your own research.}}$<br>$\color{#d10120}{\textsf{If you don't like music, I probably won't be your friend.}}$<br>$\color{#d10120}{\textsf{I like metalcore, hardcore and death metal.}}$<br>$\color{#d10120}{\textsf{Under 17 IWC, Nazis and TCC DNI and fuck off. }}$<br><br></kbd></p>
 
   <img src="https://64.media.tumblr.com/df7e7e20e3badb742ef83c1e56817ffc/af624465ac3bef02-c2/s250x400/610c57343315ae5e97196c878c9b4da30afc27f1.gifv" title="stamp 1" width="150">
      <br>
