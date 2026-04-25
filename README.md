@@ -29,7 +29,7 @@ wip
   <br> <br> <br> <br> 
 
 
- <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&duration=1000&pause=2000&color=27424D&center=true&vCenter=true&width=435&lines=%E2%80%9CYou+and+I%2C;We're+just+a+couple+of+problem+solvers.%E2%80%9D" title="You and I, we're just a couple of problem solvers." align="right">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&pause=600&color=02A26D&width=435&lines=Behold+our+beloved+revels+in+tragedy%2C+in+tragedy;Self-denying+avarice+for+bloodshed%2C+behold%2C+hypocrite" title="Behold our beloved revels in tragedy, in tragedy / Self-denying avarice for bloodshed, behold, hypocrite" align="right">
 
 </div>
 
@@ -58,7 +58,7 @@ wip
   <br> <br> <br> <br> 
 
 
- <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&duration=1000&pause=2000&color=27424D&center=true&vCenter=true&width=435&lines=%E2%80%9CYou+and+I%2C;We're+just+a+couple+of+problem+solvers.%E2%80%9D" title="You and I, we're just a couple of problem solvers." align="left">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&pause=600&color=D10120&width=435&lines=It+seems+to+suit+you+better+bleeding+out+the+eyes;Hopes+left+in+chain+suspension%2C+holding+onto+lies+to+make+the+truth" title="It seems to suit you better bleeding out the eyes / Hopes left in chain suspension, holding onto lies to make the truth" align="left">
 
 </div>
 
